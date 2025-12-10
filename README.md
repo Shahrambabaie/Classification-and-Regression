@@ -1,4 +1,4 @@
-# 🔍 ML: Classification and Regression
+# 🧠 ML: Classification and Regression
 
 This project demonstrates a complete machine-learning workflow for **exploratory data analysis (EDA)** and **predictive modeling** using classical regression methods. The goal is to understand how linear models behave on structured data, identify feature relationships, and apply regularization techniques to improve model stability and generalization.
 
