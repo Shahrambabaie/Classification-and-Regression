@@ -107,7 +107,7 @@ This section includes:
 - Often improves prediction quality compared to plain OLS  
 
 ---
-'''
+```
 ## 📂 Project Structure
 
 project/
@@ -117,7 +117,7 @@ project/
 ├── dataset.csv # Dataset for analysis 
 └── README.md # Project documentation
 
-''''
+```
 
 ---
 
